@@ -7,4 +7,6 @@ elementosDuvidas.forEach(function(duvida){
    
 });
 
-//TODO fazer com que a seta para baixo fique animada, como se ao clicar ela vire ao contrario demonstrando que se clicar novamente ela minimiza
+// TODO
+// Atualizar class=setaBaixo nas img duvida a partir da linha 76
+// Fazer com que a seta para baixo fique animada, como se ao clicar ela vire ao contrario demonstrando que se clicar novamente ela minimizar.
