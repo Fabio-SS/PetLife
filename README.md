@@ -15,4 +15,3 @@
 > <li><a href="https://www.onebitcode.com/aulasminicurso" target="_blank">Minicurso Gratuito</a></li>
 > <li><a href="https://code.visualstudio.com/download" target="_blank">Download Visual Studio Code</a></li>
 > <li><a href="https://desktop.github.com/" target="_blank">Download GitHub Desktop</a></li>
-
