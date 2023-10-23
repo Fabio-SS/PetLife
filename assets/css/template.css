@@ -112,6 +112,14 @@ h1, h2{
   right: 24px;
 }
 
+.setaBaixo {
+  transition: transform 0.3s;
+}
+
+.girar180 {
+  transform: rotate(180deg);
+}
+
 .duvida .paragrafo{
   border-right:1px solid #FF725E;
   border-left:1px solid #FF725E;
